@@ -54,7 +54,7 @@
 ## 🚀 Latest Projects (Beginner Java Developer):
 
 ### 🔹 Core Java Projects:
-- 🛠️ [Basic Calculator](https://github.com/dheerajcoding/Basic-Calculator) - A simple Java console-based calculator using OOP concepts.
+- 🛠️ [Basic Calculator](https://github.com/dheerajcoding/calculator_java.git) - A simple Java console-based calculator using OOP concepts.
 - 📅 [To-Do List App](https://github.com/dheerajcoding/to-do-list.git) - A task management app using Java and file handling.
 
 
