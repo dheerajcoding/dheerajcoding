@@ -55,16 +55,9 @@
 
 ### 🔹 Core Java Projects:
 - 🛠️ [Basic Calculator](https://github.com/dheerajcoding/Basic-Calculator) - A simple Java console-based calculator using OOP concepts.
-- 🎮 [Tic-Tac-Toe Game](https://github.com/dheerajcoding/Tic-Tac-Toe) - A Java-based Tic-Tac-Toe game with a simple GUI using Swing.
 - 📅 [To-Do List App](https://github.com/dheerajcoding/ToDo-List) - A task management app using Java and file handling.
 
-### 🔹 Java & Database (JDBC):
-- 🏦 [Student Management System](https://github.com/dheerajcoding/Student-Management) - Java JDBC + MySQL project for adding, updating, and deleting student records.
-- 📊 [Employee Record System](https://github.com/dheerajcoding/Employee-Records) - A simple CRUD app using Java and MySQL.
 
-### 🔹 Beginner Web Development (Spring Boot):
-- 🖥️ [Simple REST API](https://github.com/dheerajcoding/Simple-REST-API) - A basic REST API using Spring Boot and JSON data.
-- 📡 [User Login System](https://github.com/dheerajcoding/User-Login) - A simple authentication system using Java, Spring Boot, and MySQL.
 
 ➡️ **Check out more projects here:** [GitHub Repositories](https://github.com/dheerajcoding?tab=repositories)
 
