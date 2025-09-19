@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Dheeraj Kumar!
 ### 🚀 Full-Stack MERN Developer | Java Backend  | AWS Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+MERN+Developer;Java+%26+Spring+Boot+Expert;Building+Production-Ready+Solutions;15%2B+Live+Projects+%26+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+MERN+Developer;Java+%26+Spring+Boot;Building+Production-Ready+Solutions;15%2B+Live+Projects+%26+Growing" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
