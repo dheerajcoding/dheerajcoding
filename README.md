@@ -221,12 +221,10 @@ const dheeraj = {
 
 | 🎯 **Metric** | 📊 **Value** | 🚀 **Impact** |
 |---------------|--------------|---------------|
-| **Live Websites** | 15+ | Serving 10,000+ monthly visitors |
+| **Live Websites** | 10+ | Serving 10,000+ monthly visitors |
 | **Production Systems** | 5+ | Used by 1,000+ active users daily |
 | **LMS CRM Users** | 500+ | Processing 1,000+ leads daily |
-| **Revenue Generated** | $200K+ | Through e-commerce & business solutions |
 | **Code Uptime** | 99.9% | Mission-critical system reliability |
-| **User Satisfaction** | 4.8/5 ⭐ | Based on client feedback |
 | **Business Growth** | 40%+ | Average conversion rate improvement |
 
 ### 🌟 **Featured Production System**
