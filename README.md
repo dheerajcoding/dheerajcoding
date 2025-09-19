@@ -213,56 +213,6 @@ const dheeraj = {
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🛍️ E-Commerce Platform
-**Multi-Vendor Marketplace**
-- **Active Stores:** 50+ merchants
-- **Monthly Orders:** 2,000+ transactions
-- AI-powered recommendations
-- Real-time inventory management
-- Payment gateway integration
-- Admin analytics dashboard
-- **Revenue Generated:** $100K+ monthly
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-
-**🏆 Production Metrics:**
-- 💰 $100K+ Monthly Revenue
-- 🛒 2,000+ Monthly Orders
-- 🏪 50+ Active Merchants
-- ⭐ 4.8/5 User Rating
-
-</td>
-<td width="50%">
-
-#### 🏥 Healthcare Management System
-**Spring Boot • PostgreSQL • JWT**
-- Patient management portal
-- Appointment scheduling system
-- Medical records storage
-- Doctor-patient communication
-- Insurance claim processing
-- **Active Users:** 200+ healthcare providers
-
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-
-**🏆 Production Metrics:**
-- 🏥 200+ Healthcare Providers
-- 📅 5,000+ Appointments/Month
-- 📋 10,000+ Patient Records
-- ⚡ 24/7 System Availability
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ## 🏆 Real-World Impact & Metrics
