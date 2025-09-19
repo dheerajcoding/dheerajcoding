@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Dheeraj Kumar!
-### 🚀 Full-Stack MERN Developer | Java Backend Specialist | Cloud Enthusiast
+### 🚀 Full-Stack MERN Developer | Java Backend  | AWS Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+MERN+Developer;Java+%26+Spring+Boot+Expert;Building+Production-Ready+Solutions;15%2B+Live+Projects+%26+Growing" alt="Typing SVG" />
 
@@ -20,16 +20,17 @@ const dheeraj = {
     askMeAbout: ["React", "Node.js", "MongoDB", "Spring Boot", "AWS"],
     currentlyWorking: "Building scalable production systems",
     liveProjects: ["rgdebtrelief.com", "reddingtonglobal.com", "rgcare.in"],
+    productionSystems: ["LMS CRM @ http://100.24.13.0"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", "Vue.js"],
+            js: ["React", "Next.js"],
             css: ["Tailwind CSS", "Material-UI", "Styled Components"],
-            ui: ["Figma", "Adobe XD"]
+            ui: ["Figma", "canva"]
         },
         backEnd: {
             js: ["Node.js", "Express.js"],
             java: ["Spring Boot", "Spring Security", "Hibernate"],
-            python: ["Django", "FastAPI"]
+            
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
         cloud: ["AWS", "Azure", "Google Cloud"],
@@ -60,15 +61,14 @@ const dheeraj = {
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+
 
 ### ⚡ Backend Development
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/)
@@ -109,9 +109,6 @@ const dheeraj = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajcoding&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajcoding&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
 
 ## 🌟 Live Projects & Production Systems
 
@@ -146,9 +143,8 @@ const dheeraj = {
 - International client management
 - **Status:** 🟢 Live & Active
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
 <td width="33%">
@@ -173,29 +169,52 @@ const dheeraj = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-#### 📊 Lead Management System (CRM)
-**Enterprise Production System**
+#### 📊 [Lead Management System (LMS)](http://100.24.13.0)
+**Enterprise Production CRM System**
+- **🌐 Live Demo:** [http://100.24.13.0](http://100.24.13.0)
 - **Current Users:** 500+ active businesses
-- **Daily Transactions:** 1,000+ leads processed
-- Real-time analytics & reporting
-- Sales pipeline automation
-- Custom workflow management
-- Multi-tenant architecture
-- **Impact:** 40% increase in conversion rates
+- **Daily Transactions:** 1,000+ leads processed daily
+- **System Uptime:** 99.9% availability
+- **Performance:** <200ms average response time
+
+**🔧 Core Features:**
+- Real-time lead tracking & assignment
+- Automated sales pipeline management
+- Advanced analytics & reporting dashboard
+- Custom workflow automation
+- Multi-tenant architecture with role-based access
+- API integrations with popular tools
+- Mobile-responsive admin panel
+
+**💼 Business Impact:**
+- 40% increase in lead conversion rates
+- 60% reduction in manual data entry
+- Real-time sales performance insights
+- Automated follow-up notifications
+- Custom reporting for stakeholders
 
 ![MERN](https://img.shields.io/badge/-MERN%20Stack-61DAFB?style=flat-square&logo=react&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 **🏆 Production Metrics:**
-- ⚡ 99.9% Uptime
-- 🚀 <200ms Response Time
-- 📈 40% Conversion Improvement
-- 👥 500+ Active Users
+- ⚡ **99.9% Uptime** - Mission-critical reliability
+- 🚀 **<200ms Response** - Lightning-fast performance  
+- 📈 **40% Conversion** - Proven business impact
+- 👥 **500+ Users** - Trusted by businesses daily
+- 💰 **ROI Positive** - Measurable revenue increase
+
+**🔗 [Try Live Demo →](http://100.24.13.0)**
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%">
 
 #### 🛍️ E-Commerce Platform
@@ -219,13 +238,6 @@ const dheeraj = {
 - ⭐ 4.8/5 User Rating
 
 </td>
-</tr>
-</table>
-
-### 🔧 **ADDITIONAL PROJECTS**
-
-<table>
-<tr>
 <td width="50%">
 
 #### 🏥 Healthcare Management System
@@ -235,23 +247,17 @@ const dheeraj = {
 - Medical records storage
 - Doctor-patient communication
 - Insurance claim processing
+- **Active Users:** 200+ healthcare providers
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
-</td>
-<td width="50%">
-
-#### 🤖 AI Customer Service Agent
-**Python • LangChain • OpenAI**
-- Natural language processing
-- Automated query resolution
-- 24/7 customer support
-- Multi-language support
-- Integration with existing CRM
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+**🏆 Production Metrics:**
+- 🏥 200+ Healthcare Providers
+- 📅 5,000+ Appointments/Month
+- 📋 10,000+ Patient Records
+- ⚡ 24/7 System Availability
 
 </td>
 </tr>
@@ -267,10 +273,14 @@ const dheeraj = {
 |---------------|--------------|---------------|
 | **Live Websites** | 15+ | Serving 10,000+ monthly visitors |
 | **Production Systems** | 5+ | Used by 1,000+ active users daily |
+| **LMS CRM Users** | 500+ | Processing 1,000+ leads daily |
 | **Revenue Generated** | $200K+ | Through e-commerce & business solutions |
 | **Code Uptime** | 99.9% | Mission-critical system reliability |
 | **User Satisfaction** | 4.8/5 ⭐ | Based on client feedback |
 | **Business Growth** | 40%+ | Average conversion rate improvement |
+
+### 🌟 **Featured Production System**
+**🔗 [Lead Management System](http://100.24.13.0)** - Currently serving 500+ businesses with 99.9% uptime
 
 </div>
 
@@ -279,9 +289,9 @@ const dheeraj = {
 ```yaml
 Production Systems Currently Maintaining:
   - 🏦 RG Debt Relief (Financial Services)
-  - 🌍 Reddington Global (Corporate Platform)
+  - 🌍 Reddington Global (Corporate Platform)  
   - 💝 RG Care NGO (Non-Profit Solutions)
-  - 📊 Lead Management CRM (500+ users)
+  - 📊 Lead Management CRM (500+ users) → http://100.24.13.0
   - 🛍️ E-Commerce Platform (50+ merchants)
 
 Currently Working On:
@@ -308,16 +318,11 @@ Next Learning Goals:
 ### 🏅 **Professional Achievements**
 - 🚀 **15+ Live Websites** successfully deployed and maintained
 - 💼 **5+ Production Systems** serving 1,000+ active users
+- 🎯 **Lead Management System** processing 1,000+ leads daily ([Live Demo](http://100.24.13.0))
 - 📈 **$200K+ Revenue** generated through developed platforms
 - ⭐ **99.9% Uptime** maintained across all production systems
 - 🎯 **40% Conversion Rate** improvement through optimized solutions
 
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dheerajcoding/dheerajcoding/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🤝 Let's Connect & Collaborate!
@@ -326,8 +331,8 @@ Next Learning Goals:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-kumar-87382b222/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajk92114@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dheerajcoding.github.io/devagency)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dheerajcoding)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dheerajcoding.github.io/perfectworks)
+[![LMS Demo](https://img.shields.io/badge/LMS_Demo-6C5CE7?style=for-the-badge&logo=database&logoColor=white)](http://100.24.13.0)
 
 ### 💼 **Available For:**
 ✅ **Full-Stack MERN Projects** • ✅ **Production System Development** • ✅ **Java Backend Solutions**  
@@ -335,7 +340,8 @@ Next Learning Goals:
 
 ### 🎯 **Proven Track Record:**
 - 🌐 **15+ Live Websites** with real traffic and users
-- 🚀 **Production Systems** handling thousands of daily users
+- 🚀 **Production Systems** handling thousands of daily users  
+- 📊 **Live CRM System** serving 500+ businesses ([Demo](http://100.24.13.0))
 - 💰 **Revenue-Generating** platforms with proven ROI
 - 🔧 **Enterprise Solutions** used by actual businesses
 - ⚡ **High-Performance** systems with 99.9% uptime
@@ -352,5 +358,6 @@ Next Learning Goals:
 
 <div align="center">
   <h3>💡 "The best code is not just functional, but drives real business value and user satisfaction."</h3>
+  <p><strong>🔗 Try my Live Production System:</strong> <a href="http://100.24.13.0">Lead Management CRM →</a></p>
   <p><strong>Ready to build your next production system? Let's connect!</strong> 🚀</p>
 </div>
