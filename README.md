@@ -171,9 +171,9 @@ const dheeraj = {
 <tr>
 <td width="100%">
 
-#### 📊 [Lead Management System (LMS)](http://100.24.13.0)
+#### 📊 [Lead Management System (LMS)](https://olivialms.cloud)
 **Enterprise Production CRM System**
-- **🌐 Live Demo:** [http://100.24.13.0](http://100.24.13.0)
+- **🌐 Live Demo:** [https://olivialms.cloud](https://olivialms.cloud)
 - **Current Users:** 500+ active businesses
 - **Daily Transactions:** 1,000+ leads processed daily
 - **System Uptime:** 99.9% availability
@@ -207,7 +207,7 @@ const dheeraj = {
 - 👥 **500+ Users** - Trusted by businesses daily
 - 💰 **ROI Positive** - Measurable revenue increase
 
-**🔗 [Try Live Demo →](http://100.24.13.0)**
+**🔗 [Try Live Demo →](https://olivialms.cloud)**
 
 </td>
 </tr>
@@ -228,7 +228,7 @@ const dheeraj = {
 | **Business Growth** | 40%+ | Average conversion rate improvement |
 
 ### 🌟 **Featured Production System**
-**🔗 [Lead Management System](http://100.24.13.0)** - Currently serving 500+ businesses with 99.9% uptime
+**🔗 [Lead Management System](https://olivialms.cloud)** - Currently serving 500+ businesses with 99.9% uptime
 
 </div>
 
@@ -239,7 +239,7 @@ Production Systems Currently Maintaining:
   - 🏦 RG Debt Relief (Financial Services)
   - 🌍 Reddington Global (Corporate Platform)  
   - 💝 RG Care NGO (Non-Profit Solutions)
-  - 📊 Lead Management CRM (500+ users) → http://100.24.13.0
+  - 📊 Lead Management CRM (500+ users) → https://olivialms.cloud
   - 🛍️ E-Commerce Platform (50+ merchants)
 
 Currently Working On:
@@ -266,7 +266,7 @@ Next Learning Goals:
 ### 🏅 **Professional Achievements**
 - 🚀 **15+ Live Websites** successfully deployed and maintained
 - 💼 **5+ Production Systems** serving 1,000+ active users
-- 🎯 **Lead Management System** processing 1,000+ leads daily ([Live Demo](http://100.24.13.0))
+- 🎯 **Lead Management System** processing 1,000+ leads daily ([Live Demo](https://olivialms.cloud))
 - 📈 **$200K+ Revenue** generated through developed platforms
 - ⭐ **99.9% Uptime** maintained across all production systems
 - 🎯 **40% Conversion Rate** improvement through optimized solutions
@@ -289,7 +289,7 @@ Next Learning Goals:
 ### 🎯 **Proven Track Record:**
 - 🌐 **15+ Live Websites** with real traffic and users
 - 🚀 **Production Systems** handling thousands of daily users  
-- 📊 **Live CRM System** serving 500+ businesses ([Demo](http://100.24.13.0))
+- 📊 **Live CRM System** serving 500+ businesses ([Demo](https://100.24.13.0))
 - 💰 **Revenue-Generating** platforms with proven ROI
 - 🔧 **Enterprise Solutions** used by actual businesses
 - ⚡ **High-Performance** systems with 99.9% uptime
@@ -306,6 +306,6 @@ Next Learning Goals:
 
 <div align="center">
   <h3>💡 "The best code is not just functional, but drives real business value and user satisfaction."</h3>
-  <p><strong>🔗 Try my Live Production System:</strong> <a href="http://100.24.13.0">Lead Management CRM →</a></p>
+  <p><strong>🔗 Try my Live Production System:</strong> <a href="https://olivialms.cloud">Lead Management CRM →</a></p>
   <p><strong>Ready to build your next production system? Let's connect!</strong> 🚀</p>
 </div>
