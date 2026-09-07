@@ -1,38 +1,35 @@
 <div align="center">
 
-<!-- ==================== HERO ==================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0ea5e9,100:38bdf8&height=220&section=header&text=DHEERAJ%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20APIs%20%E2%80%A2%20INTEGRATIONS%20%E2%80%A2%20PRODUCTION%20SYSTEMS&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,70:0369a1,100:38bdf8&height=230&section=header&text=DHEERAJ%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEERING%20%E2%80%A2%20APIs%20%E2%80%A2%20INTEGRATIONS%20%E2%80%A2%20AI%20SYSTEMS&descAlignY=58&descSize=16"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+full-stack+applications+that+solve+real+business+problems.;Designing+REST+APIs%2C+webhooks+and+system+integrations.;Turning+complex+workflows+into+usable+software.;Learning+deep.+Building+better.+Shipping+real+systems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+production-oriented+full-stack+applications.;Designing+APIs%2C+webhooks+and+business+workflows.;Exploring+AI-powered+automation+and+voice+systems.;Turning+complex+processes+into+usable+software." alt="Typing SVG" />
 
 <br/><br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/dheeraj-kumar-87382b222/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dheerajk92114@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/dheerajcoding">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/dheeraj-kumar-87382b222/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dheerajk92114@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dheerajcoding">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-<br/>
-
 ```text
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│  SOFTWARE IS MORE THAN CODE.                                         │
-│                                                                      │
-│  It's how users, APIs, databases, integrations and business         │
-│  workflows come together to solve a real problem.                    │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                 SOFTWARE IS A SYSTEM, NOT JUST CODE.                ║
+║                                                                      ║
+║   USERS → INTERFACES → APIs → BUSINESS LOGIC → DATA → AUTOMATION    ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -47,70 +44,107 @@ const dheeraj = {
 
   role: "Full-Stack Developer",
 
-  location: "India 🇮🇳",
-
   focus: [
-    "Full-Stack Web Applications",
+    "Production Web Applications",
     "REST APIs",
     "Webhook Integrations",
+    "Business Workflow Systems",
+    "CRM & Lead Management",
     "Third-Party API Integrations",
-    "CRM & LMS Systems",
-    "Business Workflow Automation",
-    "Production Deployment"
+    "AI-Powered Automation"
   ],
 
-  currentlyLearning: [
-    "JavaScript Fundamentals",
-    "Data Structures & Algorithms",
-    "Backend Architecture",
-    "System Design",
-    "Java & Spring Boot"
-  ],
+  stack: {
+    frontend: [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
 
-  mindset:
-    "Understand the system. Solve the problem. Build it properly."
+    backend: [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "Authentication",
+      "Webhooks"
+    ],
+
+    databases: [
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL"
+    ],
+
+    infrastructure: [
+      "Docker",
+      "Linux",
+      "Nginx",
+      "Git"
+    ]
+  },
+
+  currentMission:
+    "Develop deep engineering fundamentals while building practical production-oriented systems."
 };
 ```
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 ABOUT ME
 
-I am a **Full-Stack Developer** interested in building real-world applications and understanding how complete software systems work.
+I am a **Full-Stack Developer** focused on understanding how complete software systems work in the real world.
 
-My work and learning have involved:
+I enjoy working across the complete application lifecycle:
 
 ```text
-Frontend Interfaces
-        ↓
-REST APIs
-        ↓
-Backend Business Logic
-        ↓
-Databases
-        ↓
-Webhooks & Integrations
-        ↓
-Production Deployment
+┌──────────────┐
+│    USERS     │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   FRONTEND   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   REST API   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ BUSINESS     │
+│ LOGIC        │
+└──────┬───────┘
+       │
+       ├──────────────► THIRD-PARTY APIs
+       │
+       ├──────────────► WEBHOOKS
+       │
+       ▼
+┌──────────────┐
+│   DATABASE   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ PRODUCTION   │
+└──────────────┘
 ```
 
-I enjoy working on systems where software directly supports a real workflow — such as:
+My interests include:
 
-* 📊 Lead Management Systems
-* 🏢 Business Platforms
-* 🎓 LMS & CRM Applications
-* 🔗 API Integrations
-* ⚡ Webhook-Based Workflows
-* 🔐 Authentication & Role-Based Systems
-* 🖥️ Admin Dashboards
-* 🚀 Production Web Applications
-
-My current goal is simple:
-
-> **Move from knowing how to use technologies to deeply understanding how software systems are designed, debugged and built.**
+* 🏗️ Full-stack applications
+* 🔌 Backend APIs
+* 🔗 Webhooks and integrations
+* 📊 CRM and lead-management systems
+* ⚙️ Business workflow automation
+* 🤖 AI-powered application workflows
+* ☁️ Deployment and production maintenance
 
 ---
-
 # ⚡ ENGINEERING FOCUS
 
 <div align="center">
@@ -135,43 +169,39 @@ D --> H[📊 Admin Dashboard]
 E --> I[☁️ Production Deployment]
 ```
 
-</div>
 
-I am particularly interested in the complete lifecycle of an application:
+
+# ⚡ ENGINEERING PHILOSOPHY
 
 ```text
-IDEA
- │
- ▼
-USER EXPERIENCE
- │
- ▼
-FRONTEND
- │
- ▼
-API DESIGN
- │
- ▼
-BACKEND LOGIC
- │
- ▼
-DATABASE
- │
- ▼
-INTEGRATIONS
- │
- ▼
-DEPLOYMENT
- │
- ▼
-REAL USERS
+UNDERSTAND THE PROBLEM
+          │
+          ▼
+MAP THE WORKFLOW
+          │
+          ▼
+DESIGN THE SYSTEM
+          │
+          ▼
+BUILD THE FEATURES
+          │
+          ▼
+CONNECT THE SERVICES
+          │
+          ▼
+TEST THE DATA FLOW
+          │
+          ▼
+DEPLOY & IMPROVE
 ```
+
+> **My goal is not simply to use more technologies. My goal is to understand systems deeply enough to design, debug and improve them independently.**
 
 ---
 
 # 🧰 TECHNOLOGY STACK
 
-## Frontend
+## ⚛️ FRONTEND
 
 <p align="center">
 
@@ -187,7 +217,7 @@ REAL USERS
 
 ---
 
-## Backend & APIs
+## ⚡ BACKEND & APIs
 
 <p align="center">
 
@@ -203,7 +233,7 @@ REAL USERS
 
 ---
 
-## Databases
+## 🗄️ DATA
 
 <p align="center">
 
@@ -219,7 +249,7 @@ REAL USERS
 
 ---
 
-## DevOps & Development Environment
+## ⚙️ DEVOPS & DEVELOPMENT
 
 <p align="center">
 
@@ -229,51 +259,515 @@ REAL USERS
 
 <div align="center">
 
-`Docker` • `Linux` • `Nginx` • `Git` • `GitHub` • `Postman` • `Production Deployment`
+`Docker` • `Linux` • `Nginx` • `Git` • `GitHub` • `Postman` • `Deployment`
 
 </div>
 
 ---
 
-# 🏗️ WHAT I BUILD
+# 🏗️ FEATURED PROJECTS
+
+---
+
+# 01
+
+# 💰 MYCASHBRIDGE
+
+### `FINANCIAL PRODUCT DISCOVERY & LOAN APPLICATION PLATFORM`
+
+🔗 **Live Platform:** https://mycashbridge.com
+
+MyCashBridge is a financial-services platform focused on helping users explore and apply for financial products through a guided digital workflow.
+
+The platform includes multiple financial-product journeys, eligibility flows, EMI calculation, loan discovery, lead capture and customer callback workflows.
+
+```text
+                        ┌───────────────┐
+                        │     USER      │
+                        └───────┬───────┘
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │ FINANCIAL PRODUCT  │
+                     │ DISCOVERY          │
+                     └─────────┬──────────┘
+                               │
+             ┌─────────────────┼──────────────────┐
+             ▼                 ▼                  ▼
+        PERSONAL LOAN      BUSINESS LOAN      HOME LOAN
+             │                 │                  │
+             └─────────────────┼──────────────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ ELIGIBILITY / EMI   │
+                    │ CALCULATION         │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ APPLICATION / LEAD  │
+                    │ CAPTURE             │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ BUSINESS WORKFLOW   │
+                    │ & FOLLOW-UP         │
+                    └─────────────────────┘
+```
+
+### PLATFORM WORKFLOWS
+
+#### 🔍 Loan Discovery
+
+Users can explore financial products including:
+
+* Personal Loans
+* Business Loans
+* Home Loans
+* Gold Loans
+* Car Loans
+* Education Loans
+* Loan Against Property
+
+The experience guides users from product discovery toward eligibility and application workflows.
+
+---
+
+### 📊 Eligibility Workflow
+
+```text
+USER DETAILS
+     │
+     ▼
+PERSONAL INFORMATION
+     │
+     ▼
+EMPLOYMENT / INCOME
+     │
+     ▼
+LOAN REQUIREMENT
+     │
+     ▼
+OUTSTANDING DEBT
+     │
+     ▼
+CREDIT PROFILE INPUT
+     │
+     ▼
+ELIGIBILITY / APPLICATION FLOW
+```
+
+The platform collects information such as:
+
+* Name
+* Mobile number
+* City
+* Employment type
+* Income information
+* Age
+* Loan requirements
+* Existing debt
+* Approximate credit profile information
+
+The workflow is designed to make the application process easier before a customer proceeds with a lending partner.
+
+---
+
+### 🧮 EMI & Financial Planning
+
+```text
+LOAN AMOUNT
+     │
+     ▼
+INTEREST RATE
+     │
+     ▼
+TENURE
+     │
+     ▼
+CALCULATION ENGINE
+     │
+     ├────────► MONTHLY EMI
+     │
+     └────────► TOTAL PAYABLE
+```
+
+The platform provides financial planning tools that allow users to understand estimated repayment information before continuing their application journey.
+
+---
+
+### 📞 LEAD & CALLBACK WORKFLOW
+
+```text
+CUSTOMER
+   │
+   ▼
+APPLICATION FORM
+   │
+   ▼
+VALIDATION
+   │
+   ▼
+LEAD CREATION
+   │
+   ▼
+BUSINESS / SALES WORKFLOW
+   │
+   ▼
+EXPERT FOLLOW-UP
+   │
+   ▼
+APPLICATION PROGRESSION
+```
+
+This type of workflow connects the customer-facing website with internal business processes and follow-up operations.
+
+---
+
+### 🔐 IMPORTANT SYSTEM THINKING
+
+Financial applications require careful handling of:
+
+* User information
+* Consent
+* Data validation
+* Application workflows
+* Third-party partner processes
+* Privacy considerations
+
+MyCashBridge publicly positions itself as a Lending Service Provider facilitating applications rather than acting as the lender itself.
+
+---
+
+### PROJECT ENGINEERING VALUE
+
+This project represents the type of system I am interested in building:
+
+```text
+FINANCIAL WORKFLOW
+        +
+USER EXPERIENCE
+        +
+DATA COLLECTION
+        +
+BUSINESS PROCESS
+        +
+LEAD MANAGEMENT
+        +
+SYSTEM INTEGRATION
+```
+
+---
+
+# 02
+
+# 📊 LEAD MANAGEMENT & BUSINESS WORKFLOW SYSTEM
+
+### `CRM • LEAD INGESTION • WEBHOOKS • BUSINESS AUTOMATION`
+
+🔗 **Live System:** https://olivialms.cloud
+
+A business-oriented system designed around managing leads, workflows and operational processes.
+
+### SYSTEM FLOW
+
+```text
+EXTERNAL SOURCE
+      │
+      ▼
+┌───────────────┐
+│ WEBHOOK / API │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ AUTHENTICATION│
+│ & VALIDATION  │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ BACKEND LOGIC │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│   DATABASE    │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ LEAD WORKFLOW │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ ADMIN / USERS │
+└───────────────┘
+```
+
+### AREAS INVOLVED
+
+* Lead ingestion
+* Webhook workflows
+* REST APIs
+* API authentication
+* Request validation
+* Data processing
+* CRM workflows
+* Admin dashboards
+* Business automation
+* Production deployment and maintenance
+
+---
+
+# 03
+
+# 🤖 AI VOICE AGENT FOR DEBT SETTLEMENT
+
+### `AI AUTOMATION PROJECT • VOICE CONVERSATIONS • CRM INTEGRATION`
+
+> **Industry-style AI project concept focused on building an automated voice workflow for debt-settlement programs.**
+
+The objective is to build an AI voice agent that can interact with potential customers, understand their financial situation at a high level, collect relevant information, answer approved program questions, and transfer qualified conversations into a human-assisted workflow.
+
+The system should **not provide unapproved financial or legal advice** and should escalate sensitive or complex cases to qualified human representatives.
+
+---
+
+## SYSTEM ARCHITECTURE
+
+```text
+                    CUSTOMER PHONE
+                          │
+                          ▼
+                 ┌────────────────┐
+                 │ VOICE PROVIDER │
+                 └───────┬────────┘
+                         │
+                         ▼
+                 ┌────────────────┐
+                 │ SPEECH TO TEXT │
+                 └───────┬────────┘
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │ AI CONVERSATION      │
+              │ ORCHESTRATION        │
+              └──────────┬───────────┘
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+     INTENT          KNOWLEDGE       SAFETY /
+     DETECTION       RETRIEVAL       COMPLIANCE
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │ WORKFLOW ENGINE      │
+              └──────────┬───────────┘
+                         │
+                         ▼
+                  CRM / BACKEND
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+      LEAD UPDATE     HUMAN HANDOFF    FOLLOW-UP
+```
+
+---
+
+## CORE VOICE BOT WORKFLOW
+
+```text
+INCOMING / OUTBOUND CALL
+           │
+           ▼
+CUSTOMER CONSENT / DISCLOSURE
+           │
+           ▼
+IDENTIFY CUSTOMER INTENT
+           │
+           ▼
+UNDERSTAND HIGH-LEVEL
+FINANCIAL SITUATION
+           │
+           ▼
+COLLECT PROGRAM-RELEVANT
+INFORMATION
+           │
+           ▼
+ANSWER APPROVED FAQS
+           │
+           ▼
+QUALIFICATION RULES
+           │
+      ┌────┴─────┐
+      ▼          ▼
+ QUALIFIED    NOT READY
+      │          │
+      ▼          ▼
+ HUMAN       FOLLOW-UP /
+ HANDOFF     EXIT FLOW
+```
+
+---
+
+## EXAMPLE INFORMATION COLLECTION
+
+The AI agent could collect information such as:
+
+* Customer name
+* Preferred contact details
+* Type of debt
+* Approximate outstanding debt
+* Number of active accounts
+* General payment difficulty
+* Preferred callback time
+
+Sensitive data collection must follow applicable privacy, consent and security requirements.
+
+---
+
+## AI CAPABILITIES
+
+```text
+VOICE INPUT
+    │
+    ▼
+SPEECH RECOGNITION
+    │
+    ▼
+INTENT DETECTION
+    │
+    ├──────────────► FAQ ANSWER
+    │
+    ├──────────────► INFORMATION COLLECTION
+    │
+    ├──────────────► QUALIFICATION
+    │
+    ├──────────────► HUMAN HANDOFF
+    │
+    └──────────────► FOLLOW-UP
+```
+
+Potential technical components:
+
+* Voice provider integration
+* Speech-to-text
+* Large Language Model integration
+* Retrieval-Augmented Generation for approved knowledge
+* Backend workflow orchestration
+* CRM integration
+* Conversation logging
+* Human handoff
+* Follow-up automation
+
+---
+
+## CRM INTEGRATION FLOW
+
+```text
+AI VOICE AGENT
+       │
+       ▼
+CONVERSATION EVENT
+       │
+       ▼
+BACKEND API
+       │
+       ▼
+DATA VALIDATION
+       │
+       ▼
+LEAD / CONTACT UPDATE
+       │
+       ▼
+CRM WORKFLOW
+       │
+       ├──────────────► SALES TEAM
+       │
+       ├──────────────► SETTLEMENT SPECIALIST
+       │
+       └──────────────► AUTOMATED FOLLOW-UP
+```
+
+---
+
+## WHY THIS PROJECT INTERESTS ME
+
+This project combines multiple areas of modern software engineering:
+
+```text
+AI
++
+VOICE TECHNOLOGY
++
+BACKEND APIs
++
+WORKFLOW AUTOMATION
++
+CRM INTEGRATION
++
+REAL-TIME EVENTS
++
+DATA MANAGEMENT
+```
+
+It represents the type of AI-powered business systems I want to continue exploring and building.
+
+---
+
+# 🏢 OTHER PRODUCTION-ORIENTED WORK
+
+### Selected live platforms
+
+| Platform                                          | Category                                   |
+| ------------------------------------------------- | ------------------------------------------ |
+| [RG Debt Relief](https://rgdebtrelief.com)        | Financial Services                         |
+| [Reddington Global](https://reddingtonglobal.com) | Corporate / Business Platform              |
+| [RG Care](https://rgcare.in)                      | Organization / Digital Platform            |
+| [MyCashBridge](https://mycashbridge.com)          | Financial Product Discovery & Applications |
+| [Olivia LMS](https://olivialms.cloud)             | Lead Management & Business Workflow System |
+
+> Project responsibilities and implementation scope vary by project. This profile highlights the workflows and technologies I have worked with rather than claiming sole ownership of every part of every platform.
+
+---
+
+# 🔌 WHAT I ENJOY BUILDING
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🔌 APIs & Integrations
-
-I work with systems that need to communicate.
+## APIs & Integrations
 
 ```text
-Application A
+APPLICATION
      │
      ▼
 REST API
      │
      ▼
-Validation
+VALIDATION
      │
      ▼
-Business Logic
+BUSINESS LOGIC
      │
-     ├───────────────► External API
-     │
-     ▼
-Database
+     ├────────► THIRD-PARTY API
      │
      ▼
-Response
+DATABASE
 ```
 
-**Focus Areas**
-
-* REST API development
+* REST APIs
 * Webhooks
-* API authentication
+* API Authentication
 * Third-party integrations
-* Request validation
 * Data transformation
 * Error handling
 
@@ -281,154 +775,38 @@ Response
 
 <td width="50%" valign="top">
 
-## 🏢 Business Systems
-
-I am interested in software that solves operational problems.
+## Business Workflows
 
 ```text
-USER
-  │
-  ▼
-DASHBOARD
-  │
-  ▼
+USER ACTION
+     │
+     ▼
+APPLICATION
+     │
+     ▼
 WORKFLOW
-  │
-  ▼
+     │
+     ▼
 AUTOMATION
-  │
-  ▼
-DATABASE
-  │
-  ▼
+     │
+     ▼
+DATA
+     │
+     ▼
 BUSINESS OUTCOME
 ```
 
-**Examples**
-
 * CRM Systems
-* LMS Platforms
 * Lead Management
+* LMS Platforms
 * Admin Panels
-* Role-Based Systems
 * Workflow Automation
+* AI Automation
 
 </td>
 
 </tr>
 </table>
-
----
-
-# 🚀 SELECTED WORK
-
-## 01 — Lead Management & Business Workflow System
-
-### `SYSTEM_TYPE: CRM / LMS / LEAD MANAGEMENT`
-
-A full-stack business-focused system built around managing leads, workflows and operational processes.
-
-### Engineering Areas
-
-```text
-External Lead Source
-        │
-        ▼
-   Webhook Endpoint
-        │
-        ▼
-Authentication
-        │
-        ▼
-Request Validation
-        │
-        ▼
-Backend Processing
-        │
-        ▼
-     Database
-        │
-        ▼
-Business Workflow
-        │
-        ▼
- Admin Dashboard
-```
-
-### Areas I Have Worked With
-
-* Lead ingestion workflows
-* REST APIs
-* Webhook integrations
-* API authentication
-* Data validation
-* Backend processing
-* Dashboard workflows
-* Role-based access
-* Production deployment
-* System maintenance
-
-<p>
-
-🔗 **Live System:** https://olivialms.cloud
-
-</p>
-
----
-
-## 02 — Production Web Platforms
-
-I have worked on production-oriented websites and business platforms across different use cases.
-
-### Selected Live Projects
-
-| Project                                           | Type                  | Focus                               |
-| ------------------------------------------------- | --------------------- | ----------------------------------- |
-| [RG Debt Relief](https://rgdebtrelief.com)        | Financial Services    | Web Platform & Business Workflows   |
-| [Reddington Global](https://reddingtonglobal.com) | Corporate Platform    | Business & Corporate Web Experience |
-| [RG Care](https://rgcare.in)                      | Organization Platform | Web Presence & Digital Workflows    |
-| [Olivia LMS](https://olivialms.cloud)             | Business System       | Lead Management & CRM Workflows     |
-
-> These projects represent real-world work I have been involved with. The exact responsibilities and implementation vary by project.
-
----
-
-# 🧠 HOW I THINK ABOUT SOFTWARE
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────┐
-│              USER PROBLEM                   │
-└─────────────────────┬───────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────┐
-│          WHAT SHOULD THE SYSTEM DO?         │
-└─────────────────────┬───────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────┐
-│        FRONTEND + BACKEND + DATA FLOW       │
-└─────────────────────┬───────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────┐
-│        APIs + DATABASE + INTEGRATIONS       │
-└─────────────────────┬───────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────┐
-│              TEST & DEBUG                   │
-└─────────────────────┬───────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────┐
-│          DEPLOY & MAINTAIN                  │
-└─────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
@@ -448,19 +826,19 @@ I have worked on production-oriented websites and business platforms across diff
 
 ---
 
-# 🎯 CURRENT ENGINEERING ROADMAP
+# 🧠 CURRENT ENGINEERING ROADMAP
 
 ```yaml
-NOW:
+CURRENT_FOCUS:
 
   JavaScript:
     - Deep fundamentals
     - Async programming
-    - Closures
     - Event loop
+    - Closures
     - Memory and execution
 
-  Problem Solving:
+  Problem_Solving:
     - Data Structures
     - Algorithms
     - Coding patterns
@@ -469,8 +847,15 @@ NOW:
     - API design
     - Authentication
     - Database design
-    - Error handling
     - Architecture
+    - Debugging
+
+  AI:
+    - LLM integrations
+    - AI workflows
+    - Voice agents
+    - RAG systems
+    - AI automation
 
 NEXT:
 
@@ -478,21 +863,19 @@ NEXT:
     - Core Java
     - OOP
     - Collections
-    - Multithreading
 
-  Spring Boot:
+  Spring_Boot:
     - REST APIs
     - Spring Data
     - Spring Security
-    - Backend architecture
 
-LONG TERM:
+LONG_TERM:
 
   - System Design
-  - Scalable Applications
+  - Scalable Backend Systems
+  - AI-Powered Applications
   - Cloud Infrastructure
   - Distributed Systems
-  - Strong Software Engineering Fundamentals
 ```
 
 ---
@@ -500,21 +883,49 @@ LONG TERM:
 # ⚙️ CURRENT MISSION
 
 ```text
-MISSION: BECOME A STRONG INDEPENDENT SOFTWARE ENGINEER
+┌──────────────────────────────────────────────┐
+│                                              │
+│     MISSION: BECOME A STRONG SOFTWARE        │
+│              ENGINEER                       │
+│                                              │
+│     STATUS: ACTIVE 🟢                        │
+│                                              │
+└──────────────────────────────────────────────┘
 
-STATUS: ACTIVE 🟢
 
-CURRENT PRIORITIES:
+JAVASCRIPT FUNDAMENTALS
 
-[██████████░░░░░░░░░░] JavaScript Fundamentals
-[████████░░░░░░░░░░░░] Full-Stack Architecture
-[██████░░░░░░░░░░░░░░] Data Structures & Algorithms
-[█████░░░░░░░░░░░░░░░] Java & Spring Boot
-[████░░░░░░░░░░░░░░░░] System Design
+████████████░░░░░░░░
 
-OBJECTIVE:
-Understand systems deeply enough to design,
-build, debug and improve them independently.
+
+FULL-STACK ENGINEERING
+
+██████████░░░░░░░░░░
+
+
+BACKEND ARCHITECTURE
+
+████████░░░░░░░░░░░░
+
+
+DATA STRUCTURES & ALGORITHMS
+
+██████░░░░░░░░░░░░░░
+
+
+AI SYSTEMS & AUTOMATION
+
+███████░░░░░░░░░░░░░
+
+
+JAVA & SPRING BOOT
+
+█████░░░░░░░░░░░░░░
+
+
+SYSTEM DESIGN
+
+████░░░░░░░░░░░░░░░░
 ```
 
 ---
@@ -523,17 +934,19 @@ build, debug and improve them independently.
 
 ```text
 FULL-STACK DEVELOPMENT
-        +
+          +
 BACKEND ENGINEERING
-        +
-APIs & INTEGRATIONS
-        +
-BUSINESS APPLICATIONS
-        +
+          +
+API & INTEGRATION WORK
+          +
+AI-POWERED APPLICATIONS
+          +
+BUSINESS SYSTEM DEVELOPMENT
+          +
 SOFTWARE ENGINEERING OPPORTUNITIES
 ```
 
-I am particularly interested in opportunities where I can work with experienced engineers, solve real problems and continue developing strong software engineering fundamentals.
+I am particularly interested in opportunities where I can work on real systems, solve meaningful engineering problems and learn from strong software engineering teams.
 
 ---
 
@@ -562,13 +975,12 @@ I am particularly interested in opportunities where I can work with experienced 
 <br/><br/>
 
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   "Good software is not just about writing   ║
-║    code. It's about understanding the        ║
-║    system behind the problem."               ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   "THE BEST SOFTWARE ENGINEERS DON'T JUST BUILD FEATURES.  ║
+║    THEY UNDERSTAND THE SYSTEM BEHIND THE PROBLEM."         ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -581,8 +993,10 @@ I am particularly interested in opportunities where I can work with experienced 
 
 <div align="center">
 
-### ⚡ BUILDING. LEARNING. DEBUGGING. IMPROVING.
+# ⚡ BUILDING SYSTEMS. LEARNING DEEPLY. IMPROVING CONTINUOUSLY.
 
-**Thanks for visiting my profile. Feel free to explore my repositories or connect with me.**
+### Thanks for visiting my GitHub.
+
+**Feel free to explore my work or connect with me.**
 
 </div>
