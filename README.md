@@ -1,311 +1,588 @@
 <div align="center">
 
-# 👋 Hi, I'm Dheeraj Kumar!
-### 🚀 Full-Stack MERN Developer | Java Backend  | AWS Enthusiast
+<!-- ==================== HERO ==================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+MERN+Developer;Java+%26+Spring+Boot;Building+Production-Ready+Solutions;15%2B+Live+Projects+%26+Growing" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0ea5e9,100:38bdf8&height=220&section=header&text=DHEERAJ%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20APIs%20%E2%80%A2%20INTEGRATIONS%20%E2%80%A2%20PRODUCTION%20SYSTEMS&descAlignY=58&descSize=16"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+full-stack+applications+that+solve+real+business+problems.;Designing+REST+APIs%2C+webhooks+and+system+integrations.;Turning+complex+workflows+into+usable+software.;Learning+deep.+Building+better.+Shipping+real+systems." alt="Typing SVG" />
+
+<br/><br/>
+
+<p>
+  <a href="https://www.linkedin.com/in/dheeraj-kumar-87382b222/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dheerajk92114@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dheerajcoding">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│  SOFTWARE IS MORE THAN CODE.                                         │
+│                                                                      │
+│  It's how users, APIs, databases, integrations and business         │
+│  workflows come together to solve a real problem.                    │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
-## 🎯 About Me
+---
 
-```javascript
+# `$ whoami`
+
+```typescript
 const dheeraj = {
-    name: "Dheeraj Kumar",
-    role: "Full-Stack MERN Developer",
-    location: "India 🇮🇳",
-    code: ["JavaScript", "TypeScript", "Java", "Python"],
-    askMeAbout: ["React", "Node.js", "MongoDB", "Spring Boot", "AWS"],
-    currentlyWorking: "Building scalable production systems",
-    liveProjects: ["rgdebtrelief.com", "reddingtonglobal.com", "rgcare.in"],
-    productionSystems: ["LMS CRM @ https://olivialms.cloud"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind CSS", "Material-UI", "Styled Components"],
-            ui: ["Figma", "canva"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-            java: ["Spring Boot", "Spring Security", "Hibernate"],
-            
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        cloud: ["AWS", "Azure", "Google Cloud"],
-        devOps: ["Docker", "Kubernetes", "Jenkins", "GitHub Actions"],
-        misc: ["Socket.io", "GraphQL", "REST APIs", "Microservices"]
-    },
-    achievements: {
-        liveWebsites: 15,
-        productionSystems: 5,
-        activeUsers: "1000+",
-        projectTypes: ["Financial", "Corporate", "NGO", "E-Commerce", "CRM"]
-    },
-    funFact: "I build systems that people actually use in production! 🚀"
+  name: "Dheeraj Kumar",
+
+  role: "Full-Stack Developer",
+
+  location: "India 🇮🇳",
+
+  focus: [
+    "Full-Stack Web Applications",
+    "REST APIs",
+    "Webhook Integrations",
+    "Third-Party API Integrations",
+    "CRM & LMS Systems",
+    "Business Workflow Automation",
+    "Production Deployment"
+  ],
+
+  currentlyLearning: [
+    "JavaScript Fundamentals",
+    "Data Structures & Algorithms",
+    "Backend Architecture",
+    "System Design",
+    "Java & Spring Boot"
+  ],
+
+  mindset:
+    "Understand the system. Solve the problem. Build it properly."
 };
 ```
 
-<div align="center">
+---
 
-## 🚀 Tech Stack & Tools
+# 👨‍💻 About Me
 
-### 🎨 Frontend Development
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+I am a **Full-Stack Developer** interested in building real-world applications and understanding how complete software systems work.
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+My work and learning have involved:
 
-
-### ⚡ Backend Development
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-
-
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/)
-[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
-
-### 🗄️ Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-
-### ☁️ Cloud & DevOps
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-
-### 🛠️ Development Tools
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dheerajcoding&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajcoding&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajcoding&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-
-## 🌟 Live Projects & Production Systems
-
-<div align="center">
-
-### 🌐 **LIVE WEBSITES (Currently Active)**
-
-<table>
-<tr>
-<td width="33%">
-
-#### 🏦 [RG Debt Relief](https://rgdebtrelief.com)
-**Financial Services Platform**
-- Professional debt relief solutions
-- Secure client portal integration
-- Lead generation & management
-- Payment processing system
-- **Status:** 🟢 Live & Active
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-<td width="33%">
-
-#### 🌍 [Reddington Global](https://reddingtonglobal.com)
-**Corporate Business Solutions**
-- Global business platform
-- Multi-language support
-- Service portfolio showcase
-- International client management
-- **Status:** 🟢 Live & Active
-
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-<td width="33%">
-
-#### 💝 [RG Care NGO](https://rgcare.in)
-**Non-Profit Organization**
-- Donation management system
-- Volunteer registration portal
-- Impact tracking dashboard
-- Community engagement features
-- **Status:** 🟢 Live & Active
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-### 🚀 **PRODUCTION SYSTEMS (In Active Use)**
-
-<table>
-<tr>
-<td width="100%">
-
-#### 📊 [Lead Management System (LMS)](https://olivialms.cloud)
-**Enterprise Production CRM System**
-- **🌐 Live Demo:** [https://olivialms.cloud](https://olivialms.cloud)
-- **Current Users:** 500+ active businesses
-- **Daily Transactions:** 1,000+ leads processed daily
-- **System Uptime:** 99.9% availability
-- **Performance:** <200ms average response time
-
-**🔧 Core Features:**
-- Real-time lead tracking & assignment
-- Automated sales pipeline management
-- Advanced analytics & reporting dashboard
-- Custom workflow automation
-- Multi-tenant architecture with role-based access
-- API integrations with popular tools
-- Mobile-responsive admin panel
-
-**💼 Business Impact:**
-- 40% increase in lead conversion rates
-- 60% reduction in manual data entry
-- Real-time sales performance insights
-- Automated follow-up notifications
-- Custom reporting for stakeholders
-
-![MERN](https://img.shields.io/badge/-MERN%20Stack-61DAFB?style=flat-square&logo=react&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**🏆 Production Metrics:**
-- ⚡ **99.9% Uptime** - Mission-critical reliability
-- 🚀 **<200ms Response** - Lightning-fast performance  
-- 📈 **40% Conversion** - Proven business impact
-- 👥 **500+ Users** - Trusted by businesses daily
-- 💰 **ROI Positive** - Measurable revenue increase
-
-**🔗 [Try Live Demo →](https://olivialms.cloud)**
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🏆 Real-World Impact & Metrics
-
-<div align="center">
-
-| 🎯 **Metric** | 📊 **Value** | 🚀 **Impact** |
-|---------------|--------------|---------------|
-| **Live Websites** | 10+ | Serving 10,000+ monthly visitors |
-| **Production Systems** | 5+ | Used by 1,000+ active users daily |
-| **LMS CRM Users** | 500+ | Processing 1,000+ leads daily |
-| **Code Uptime** | 99.9% | Mission-critical system reliability |
-| **Business Growth** | 40%+ | Average conversion rate improvement |
-
-### 🌟 **Featured Production System**
-**🔗 [Lead Management System](https://olivialms.cloud)** - Currently serving 500+ businesses with 99.9% uptime
-
-</div>
-
-## 🎯 Current Focus & Learning
-
-```yaml
-Production Systems Currently Maintaining:
-  - 🏦 RG Debt Relief (Financial Services)
-  - 🌍 Reddington Global (Corporate Platform)  
-  - 💝 RG Care NGO (Non-Profit Solutions)
-  - 📊 Lead Management CRM (500+ users) → https://olivialms.cloud
-  - 🛍️ E-Commerce Platform (50+ merchants)
-
-Currently Working On:
-  - 🔥 Advanced React performance optimization
-  - 🚀 Microservices architecture scaling
-  - ☁️ AWS Solutions Architecture certification
-  - 📱 React Native mobile app development
-
-Next Learning Goals:
-  - 🧠 Machine Learning integration in web apps
-  - 🔗 Blockchain & Web3 development
-  - 🎨 Advanced UI/UX design principles
-  - 📊 Real-time data visualization with D3.js
+```text
+Frontend Interfaces
+        ↓
+REST APIs
+        ↓
+Backend Business Logic
+        ↓
+Databases
+        ↓
+Webhooks & Integrations
+        ↓
+Production Deployment
 ```
 
-## 🎓 Certifications & Achievements
+I enjoy working on systems where software directly supports a real workflow — such as:
 
-<div align="center">
+* 📊 Lead Management Systems
+* 🏢 Business Platforms
+* 🎓 LMS & CRM Applications
+* 🔗 API Integrations
+* ⚡ Webhook-Based Workflows
+* 🔐 Authentication & Role-Based Systems
+* 🖥️ Admin Dashboards
+* 🚀 Production Web Applications
 
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Oracle Java SE](https://img.shields.io/badge/Oracle-Java%20SE%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/java-se)
-[![MongoDB Developer](https://img.shields.io/badge/MongoDB-Developer%20Associate-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://university.mongodb.com/)
+My current goal is simple:
 
-### 🏅 **Professional Achievements**
-- 🚀 **15+ Live Websites** successfully deployed and maintained
-- 💼 **5+ Production Systems** serving 1,000+ active users
-- 🎯 **Lead Management System** processing 1,000+ leads daily ([Live Demo](https://olivialms.cloud))
-- 📈 **$200K+ Revenue** generated through developed platforms
-- ⭐ **99.9% Uptime** maintained across all production systems
-- 🎯 **40% Conversion Rate** improvement through optimized solutions
-
-</div>
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-kumar-87382b222/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajk92114@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dheerajcoding.github.io/perfectworks)
-[![LMS Demo](https://img.shields.io/badge/LMS_Demo-6C5CE7?style=for-the-badge&logo=database&logoColor=white)](http://100.24.13.0)
-
-### 💼 **Available For:**
-✅ **Full-Stack MERN Projects** • ✅ **Production System Development** • ✅ **Java Backend Solutions**  
-✅ **Cloud Architecture** • ✅ **System Scaling** • ✅ **Technical Consulting**
-
-### 🎯 **Proven Track Record:**
-- 🌐 **15+ Live Websites** with real traffic and users
-- 🚀 **Production Systems** handling thousands of daily users  
-- 📊 **Live CRM System** serving 500+ businesses ([Demo](https://100.24.13.0))
-- 💰 **Revenue-Generating** platforms with proven ROI
-- 🔧 **Enterprise Solutions** used by actual businesses
-- ⚡ **High-Performance** systems with 99.9% uptime
+> **Move from knowing how to use technologies to deeply understanding how software systems are designed, debugged and built.**
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=dheerajcoding&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+# ⚡ ENGINEERING FOCUS
 
-*⭐ From [dheerajcoding](https://github.com/dheerajcoding) - Building production-ready solutions that make a real impact! 🚀*
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A[👤 User] --> B[⚛️ Frontend]
+
+B --> C[🔌 REST API]
+
+C --> D[🧠 Business Logic]
+
+D --> E[(🗄️ Database)]
+
+D --> F[🔗 Third Party APIs]
+
+F --> G[⚡ Webhooks]
+
+D --> H[📊 Admin Dashboard]
+
+E --> I[☁️ Production Deployment]
+```
+
+</div>
+
+I am particularly interested in the complete lifecycle of an application:
+
+```text
+IDEA
+ │
+ ▼
+USER EXPERIENCE
+ │
+ ▼
+FRONTEND
+ │
+ ▼
+API DESIGN
+ │
+ ▼
+BACKEND LOGIC
+ │
+ ▼
+DATABASE
+ │
+ ▼
+INTEGRATIONS
+ │
+ ▼
+DEPLOYMENT
+ │
+ ▼
+REAL USERS
+```
+
+---
+
+# 🧰 TECHNOLOGY STACK
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&perline=7"/>
+
+</p>
+
+<div align="center">
+
+`React` • `Next.js` • `JavaScript` • `TypeScript` • `HTML` • `CSS` • `Tailwind CSS`
+
+</div>
+
+---
+
+## Backend & APIs
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java&perline=3"/>
+
+</p>
+
+<div align="center">
+
+`Node.js` • `Express.js` • `REST APIs` • `JWT` • `Authentication` • `Webhooks` • `API Integrations`
+
+</div>
+
+---
+
+## Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3"/>
+
+</p>
+
+<div align="center">
+
+`MongoDB` • `MySQL` • `PostgreSQL`
+
+</div>
+
+---
+
+## DevOps & Development Environment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vscode&perline=7"/>
+
+</p>
+
+<div align="center">
+
+`Docker` • `Linux` • `Nginx` • `Git` • `GitHub` • `Postman` • `Production Deployment`
+
+</div>
+
+---
+
+# 🏗️ WHAT I BUILD
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔌 APIs & Integrations
+
+I work with systems that need to communicate.
+
+```text
+Application A
+     │
+     ▼
+REST API
+     │
+     ▼
+Validation
+     │
+     ▼
+Business Logic
+     │
+     ├───────────────► External API
+     │
+     ▼
+Database
+     │
+     ▼
+Response
+```
+
+**Focus Areas**
+
+* REST API development
+* Webhooks
+* API authentication
+* Third-party integrations
+* Request validation
+* Data transformation
+* Error handling
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏢 Business Systems
+
+I am interested in software that solves operational problems.
+
+```text
+USER
+  │
+  ▼
+DASHBOARD
+  │
+  ▼
+WORKFLOW
+  │
+  ▼
+AUTOMATION
+  │
+  ▼
+DATABASE
+  │
+  ▼
+BUSINESS OUTCOME
+```
+
+**Examples**
+
+* CRM Systems
+* LMS Platforms
+* Lead Management
+* Admin Panels
+* Role-Based Systems
+* Workflow Automation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 SELECTED WORK
+
+## 01 — Lead Management & Business Workflow System
+
+### `SYSTEM_TYPE: CRM / LMS / LEAD MANAGEMENT`
+
+A full-stack business-focused system built around managing leads, workflows and operational processes.
+
+### Engineering Areas
+
+```text
+External Lead Source
+        │
+        ▼
+   Webhook Endpoint
+        │
+        ▼
+Authentication
+        │
+        ▼
+Request Validation
+        │
+        ▼
+Backend Processing
+        │
+        ▼
+     Database
+        │
+        ▼
+Business Workflow
+        │
+        ▼
+ Admin Dashboard
+```
+
+### Areas I Have Worked With
+
+* Lead ingestion workflows
+* REST APIs
+* Webhook integrations
+* API authentication
+* Data validation
+* Backend processing
+* Dashboard workflows
+* Role-based access
+* Production deployment
+* System maintenance
+
+<p>
+
+🔗 **Live System:** https://olivialms.cloud
+
+</p>
+
+---
+
+## 02 — Production Web Platforms
+
+I have worked on production-oriented websites and business platforms across different use cases.
+
+### Selected Live Projects
+
+| Project                                           | Type                  | Focus                               |
+| ------------------------------------------------- | --------------------- | ----------------------------------- |
+| [RG Debt Relief](https://rgdebtrelief.com)        | Financial Services    | Web Platform & Business Workflows   |
+| [Reddington Global](https://reddingtonglobal.com) | Corporate Platform    | Business & Corporate Web Experience |
+| [RG Care](https://rgcare.in)                      | Organization Platform | Web Presence & Digital Workflows    |
+| [Olivia LMS](https://olivialms.cloud)             | Business System       | Lead Management & CRM Workflows     |
+
+> These projects represent real-world work I have been involved with. The exact responsibilities and implementation vary by project.
+
+---
+
+# 🧠 HOW I THINK ABOUT SOFTWARE
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────┐
+│              USER PROBLEM                   │
+└─────────────────────┬───────────────────────┘
+                      │
+                      ▼
+┌─────────────────────────────────────────────┐
+│          WHAT SHOULD THE SYSTEM DO?         │
+└─────────────────────┬───────────────────────┘
+                      │
+                      ▼
+┌─────────────────────────────────────────────┐
+│        FRONTEND + BACKEND + DATA FLOW       │
+└─────────────────────┬───────────────────────┘
+                      │
+                      ▼
+┌─────────────────────────────────────────────┐
+│        APIs + DATABASE + INTEGRATIONS       │
+└─────────────────────┬───────────────────────┘
+                      │
+                      ▼
+┌─────────────────────────────────────────────┐
+│              TEST & DEBUG                   │
+└─────────────────────┬───────────────────────┘
+                      │
+                      ▼
+┌─────────────────────────────────────────────┐
+│          DEPLOY & MAINTAIN                  │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=dheerajcoding&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajcoding&layout=compact&hide_border=true&theme=transparent"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=dheerajcoding&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+# 🎯 CURRENT ENGINEERING ROADMAP
+
+```yaml
+NOW:
+
+  JavaScript:
+    - Deep fundamentals
+    - Async programming
+    - Closures
+    - Event loop
+    - Memory and execution
+
+  Problem Solving:
+    - Data Structures
+    - Algorithms
+    - Coding patterns
+
+  Backend:
+    - API design
+    - Authentication
+    - Database design
+    - Error handling
+    - Architecture
+
+NEXT:
+
+  Java:
+    - Core Java
+    - OOP
+    - Collections
+    - Multithreading
+
+  Spring Boot:
+    - REST APIs
+    - Spring Data
+    - Spring Security
+    - Backend architecture
+
+LONG TERM:
+
+  - System Design
+  - Scalable Applications
+  - Cloud Infrastructure
+  - Distributed Systems
+  - Strong Software Engineering Fundamentals
+```
+
+---
+
+# ⚙️ CURRENT MISSION
+
+```text
+MISSION: BECOME A STRONG INDEPENDENT SOFTWARE ENGINEER
+
+STATUS: ACTIVE 🟢
+
+CURRENT PRIORITIES:
+
+[██████████░░░░░░░░░░] JavaScript Fundamentals
+[████████░░░░░░░░░░░░] Full-Stack Architecture
+[██████░░░░░░░░░░░░░░] Data Structures & Algorithms
+[█████░░░░░░░░░░░░░░░] Java & Spring Boot
+[████░░░░░░░░░░░░░░░░] System Design
+
+OBJECTIVE:
+Understand systems deeply enough to design,
+build, debug and improve them independently.
+```
+
+---
+
+# 🤝 OPEN TO
+
+```text
+FULL-STACK DEVELOPMENT
+        +
+BACKEND ENGINEERING
+        +
+APIs & INTEGRATIONS
+        +
+BUSINESS APPLICATIONS
+        +
+SOFTWARE ENGINEERING OPPORTUNITIES
+```
+
+I am particularly interested in opportunities where I can work with experienced engineers, solve real problems and continue developing strong software engineering fundamentals.
+
+---
+
+# 📬 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dheeraj-kumar-87382b222/">
+
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:dheerajk92114@gmail.com">
+
+<img src="https://img.shields.io/badge/EMAIL-SEND_A_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/dheerajcoding">
+
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br/><br/>
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   "Good software is not just about writing   ║
+║    code. It's about understanding the        ║
+║    system behind the problem."               ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=dheerajcoding&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <h3>💡 "The best code is not just functional, but drives real business value and user satisfaction."</h3>
-  <p><strong>🔗 Try my Live Production System:</strong> <a href="https://olivialms.cloud">Lead Management CRM →</a></p>
-  <p><strong>Ready to build your next production system? Let's connect!</strong> 🚀</p>
+
+### ⚡ BUILDING. LEARNING. DEBUGGING. IMPROVING.
+
+**Thanks for visiting my profile. Feel free to explore my repositories or connect with me.**
+
 </div>
